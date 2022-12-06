@@ -3,13 +3,13 @@ from math import log, sqrt
 
 
 ni = 10 ** 10
-epsilon_s = 3.9 / 100 * epsilon_0
+epsilon_s = 12 / 100 * epsilon_0
 C_ox = 4 * 10 ** -7
 initial = 1
 initial_factor = 1
 smaller_flag = True
 larger_flag = False
-Na = 6.416015625 * 10 ** 16
+Na = 3.03466796875 * 10 ** 16
 
 
 def equation(x):
