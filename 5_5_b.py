@@ -3,7 +3,7 @@ from math import log, sqrt
 
 
 ni = 10 ** 10
-epsilon_s = 3.9 / 100 * epsilon_0
+epsilon_s = 12 / 100 * epsilon_0
 C_ox = 4 * 10 ** -7
 initial = 1
 initial_factor = 1
